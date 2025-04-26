@@ -1,2 +1,4 @@
 # miku-eoeo
-Hi mom
+Hi 
+mom
+if you want to be as cool as Koutaro Yumiba, install https://neovim.io/ now!!
